@@ -33,21 +33,21 @@ jgs |__|___|            / /|  |         |        |
 ### TEAM
 
 #### 1 공급망 관리를 위한 주문 시스템
-- 박민성 심규혁 이동혁 임성현 전승민
+- 박민성(PM) 심규혁(Tech Leader) 이동혁(Agile Coach) 임성현(Git Manager) 전승민(Presenter)
 - https://github.com/beyond-sw-camp/be01_3nd_1team
 
 #### 2 집단 지성 활용을 위한 지식 관리 시스템
-- 김민우 박대호 박재린 이경민
+- 박재린(PM) 김민우(Tech Leader) 박대호(Agile Coach)  이경민(Git Manager, Presenter)
 - https://github.com/beyond-sw-camp/be01_3nd_2team
 
 #### 3 최적의 영업을 위한 관리 시스템
-- 김민성 박민희 우지영 정수민
+- 우지영(PM) 김민성(Agile Coach) 박민희(Tech Leader)  정수민(Git Manager, Presenter)
 - https://github.com/beyond-sw-camp/be01_3nd_3team
 
 #### 4 효과적인 HR을 위한 인사 관리 시스템
-- 이영진 주현성 김단아 고라희
+- 이영진(Agile Coach) 주현성(Git Manager, Presenter) 김단아(Tech Leader) 고라희(PM)
 - https://github.com/beyond-sw-camp/be01_3nd_4team
 
 #### 5 효율적인 업무를 위한 일정 관리 시스템
-- 안우용 김정민 윤채영 최원규
+- 안우용(Git Manager, Presenter) 김정민(PM) 윤채영(Tech Leader) 최원규(Agile Coach)
 - https://github.com/beyond-sw-camp/be01_3nd_5team
